@@ -19,10 +19,10 @@
 <img src="images/data_information.png" width="700"/>
 
 #### Kat Sayısına Göre Daire Grafiği 
-<img src="images/circle_chart.png" width="700"/>
+<img src="images/circle_chart.png" width="300"/>
 
 #### Tahmin sonuçları 
-<img src="images/prediction_results.png" width="700"/>
+<img src="images/prediction_results.png" width="300"/>
 
 
 
