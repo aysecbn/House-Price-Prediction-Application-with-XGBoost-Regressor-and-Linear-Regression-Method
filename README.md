@@ -1,6 +1,6 @@
 ## House Price Prediction Application with XGBoost Regressor and Linear Regression Method
 
-###Kullanılan veri alanları
+### Kullanılan veri alanları
 - İl (Plaka Kodu)
 - m^2 (Brüt)
 -  m^2 (Net)
@@ -16,4 +16,4 @@
 - Fiyat
 
 #### Tablo 
-<img src="images/data_information.png" width="300"/>
+<img src="images/data_information.png" width="700"/>
